@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/basic/basic.iml" filepath="$PROJECT_DIR$/basic/basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basicCode.iml" filepath="$PROJECT_DIR$/basicCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gUI/gUI.iml" filepath="$PROJECT_DIR$/gUI/gUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iO/iO.iml" filepath="$PROJECT_DIR$/iO/iO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/net/net.iml" filepath="$PROJECT_DIR$/net/net.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread/thread.iml" filepath="$PROJECT_DIR$/thread/thread.iml" />
+    </modules>
+  </component>
+</project>
